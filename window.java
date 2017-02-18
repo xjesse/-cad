@@ -6,8 +6,6 @@ import java.awt.Graphics;
 import java.awt.LayoutManager;
 import java.util.ArrayList;
 import javax.swing.JFrame;
-
-
 import shape.Circle;
 import shape.Shape;
 import shape.Shapec;
