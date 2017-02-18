@@ -1,11 +1,10 @@
-package CAD;
+﻿package CAD;
 
 import java.awt.BorderLayout;
 import java.awt.Font;
 import java.awt.Graphics;
 import java.awt.LayoutManager;
 import java.util.ArrayList;
-
 import javax.swing.JFrame;
 
 
