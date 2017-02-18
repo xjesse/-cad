@@ -1,4 +1,4 @@
-package CAD;
+﻿package CAD;
 
 import java.awt.BorderLayout;
 import java.awt.Font;
@@ -7,8 +7,6 @@ import java.awt.LayoutManager;
 import java.util.ArrayList;
 
 import javax.swing.JFrame;
-
-
 import shape.Circle;
 import shape.Shape;
 import shape.Shapec;
